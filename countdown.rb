@@ -1,12 +1,12 @@
-def countdown
+def countdown(n)
   
-  count = 10
+  n = 10
   
-  while count > 0
+  while n > 0
   
-    puts count
+    puts n
     
-    count -= 1
+    n -= 1
     
   end
   
