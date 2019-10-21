@@ -2,7 +2,7 @@ def countdown(n)
 
   while n > 0
   
-    print "#{n} SECOND(S)!"
+    p "#{n} SECOND(S)!"
     
     n -= 1
     
