@@ -8,6 +8,6 @@ def countdown(n)
     
   end
   
-  p "HAPPY NEW YEAR!"
+
   
 end
